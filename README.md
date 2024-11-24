@@ -1,4 +1,4 @@
-![386465313-7c4da735-a505-42f9-940b-f47f92165ad9](https://github.com/user-attachments/assets/1654cfdf-72f5-42c2-a779-01bc83289756)# Deep Neural Network for Malaria Infected Cell Recognition
+# Deep Neural Network for Malaria Infected Cell Recognition
 
 ## AIM
 
